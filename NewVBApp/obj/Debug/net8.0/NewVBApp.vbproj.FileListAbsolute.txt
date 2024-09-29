@@ -1,0 +1,15 @@
+/workspaces/CPE-314-19133/NewVBApp/bin/Debug/net8.0/NewVBApp
+/workspaces/CPE-314-19133/NewVBApp/bin/Debug/net8.0/NewVBApp.deps.json
+/workspaces/CPE-314-19133/NewVBApp/bin/Debug/net8.0/NewVBApp.runtimeconfig.json
+/workspaces/CPE-314-19133/NewVBApp/bin/Debug/net8.0/NewVBApp.dll
+/workspaces/CPE-314-19133/NewVBApp/bin/Debug/net8.0/NewVBApp.pdb
+/workspaces/CPE-314-19133/NewVBApp/obj/Debug/net8.0/NewVBApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CPE-314-19133/NewVBApp/obj/Debug/net8.0/NewVBApp.AssemblyInfoInputs.cache
+/workspaces/CPE-314-19133/NewVBApp/obj/Debug/net8.0/NewVBApp.AssemblyInfo.vb
+/workspaces/CPE-314-19133/NewVBApp/obj/Debug/net8.0/NewVBApp.vbproj.CoreCompileInputs.cache
+/workspaces/CPE-314-19133/NewVBApp/obj/Debug/net8.0/NewVBApp.sourcelink.json
+/workspaces/CPE-314-19133/NewVBApp/obj/Debug/net8.0/NewVBApp.dll
+/workspaces/CPE-314-19133/NewVBApp/obj/Debug/net8.0/refint/NewVBApp.dll
+/workspaces/CPE-314-19133/NewVBApp/obj/Debug/net8.0/NewVBApp.pdb
+/workspaces/CPE-314-19133/NewVBApp/obj/Debug/net8.0/NewVBApp.genruntimeconfig.cache
+/workspaces/CPE-314-19133/NewVBApp/obj/Debug/net8.0/ref/NewVBApp.dll
