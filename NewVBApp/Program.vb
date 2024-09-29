@@ -57,7 +57,7 @@ Module Program
         Console.WriteLine(vbTab & "Press [3] Sugbo")
         Console.WriteLine(vbTab & "Press [4] Working")
         Console.WriteLine(vbTab & "Press [5] Presidential")
-        Console.WriteLine(vbTab & "Press [6] No Academic")
+        Console.WriteLine(vbTab & "Press [6] No Scholarship")
         Console.Write(vbTab & "Type: ")
 
         types = Convert.ToInt32(Console.ReadLine())
