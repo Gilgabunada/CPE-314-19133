@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("NewVBApp"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2887d573a4984e26585f0e003b5e2812c2ad4be7"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a12066a4cdebedf0d00c9c01b8ff8a28a95f84ad"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("NewVBApp"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("NewVBApp"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
